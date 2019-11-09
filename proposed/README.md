@@ -9,3 +9,5 @@ Graphs.ipynb - Jupyter Notebook file for Plotting graphs of Accuracy Score and M
 graph.py - Python file for Plotting graphs of Accuracy Score and Mean Absolute Error. (OUR CONTRIBUTION)
 
 TABLE2.PNG - Accuracy Scores and Mean Absolute Errors of varying sizes of data samples trained on model of FINAL/MODIFIED CODE.
+
+/graphs - Contains all the plotted graphs by the code.
